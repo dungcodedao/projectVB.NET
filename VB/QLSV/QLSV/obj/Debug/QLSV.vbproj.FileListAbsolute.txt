@@ -1,0 +1,28 @@
+D:\Word\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\Word\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\Word\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\Word\QLSV\QLSV\bin\Debug\QLSV.xml
+D:\Word\QLSV\QLSV\obj\Debug\QLSV.vbproj.AssemblyReference.cache
+D:\Word\QLSV\QLSV\obj\Debug\QLSV.vbproj.SuggestedBindingRedirects.cache
+D:\Word\QLSV\QLSV\obj\Debug\QLSV.frmQLSV.resources
+D:\Word\QLSV\QLSV\obj\Debug\QLSV.frmStudent.resources
+D:\Word\QLSV\QLSV\obj\Debug\QLSV.Resources.resources
+D:\Word\QLSV\QLSV\obj\Debug\QLSV.vbproj.GenerateResource.cache
+D:\Word\QLSV\QLSV\obj\Debug\QLSV.vbproj.CoreCompileInputs.cache
+D:\Word\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\Word\QLSV\QLSV\obj\Debug\QLSV.xml
+D:\Word\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\ĐỒ Án VB\VB\QLSV\QLSV\obj\Debug\QLSV.vbproj.AssemblyReference.cache
+D:\ĐỒ Án VB\VB\QLSV\QLSV\obj\Debug\QLSV.vbproj.SuggestedBindingRedirects.cache
+D:\ĐỒ Án VB\VB\QLSV\QLSV\obj\Debug\QLSV.frmQLSV.resources
+D:\ĐỒ Án VB\VB\QLSV\QLSV\obj\Debug\QLSV.frmStudent.resources
+D:\ĐỒ Án VB\VB\QLSV\QLSV\obj\Debug\QLSV.Resources.resources
+D:\ĐỒ Án VB\VB\QLSV\QLSV\obj\Debug\QLSV.vbproj.GenerateResource.cache
+D:\ĐỒ Án VB\VB\QLSV\QLSV\obj\Debug\QLSV.vbproj.CoreCompileInputs.cache
+D:\ĐỒ Án VB\VB\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\ĐỒ Án VB\VB\QLSV\QLSV\obj\Debug\QLSV.xml
+D:\ĐỒ Án VB\VB\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\ĐỒ Án VB\VB\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\ĐỒ Án VB\VB\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\ĐỒ Án VB\VB\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\ĐỒ Án VB\VB\QLSV\QLSV\bin\Debug\QLSV.xml
